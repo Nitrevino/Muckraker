@@ -15,7 +15,7 @@ h2 {
     font-size: 14px;
     font-weight: 500;
     line-height: 15.4px;
-    text-align= justify;
+    text-align: justify;
 }
 p {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -42,7 +42,7 @@ blockquote {
 
 .Topcolor{
     background-color: #062F4F;
-
+}
 
 @media screen and (max-width: 600px) {
     blockquote {
